@@ -4,5 +4,6 @@
 1. Git的基础命令
 1. hexo框架
 1. hexo换主题
-用命令行敲命令是一种Geek行为我觉得还挺有趣的，有点意思，下面这张Gif可以表达我的心情
+用命令行敲命令是一种Geek行为我觉得还挺有趣的。
+### 有点意思，下面这张Gif可以表达我的心情
 ！[https://qgt-style.oss-cn-hangzhou.aliyuncs.com/newcoursep4/g1/g1-2-2/tenor.gif]
